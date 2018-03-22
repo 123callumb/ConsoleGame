@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\cs level 4\programming\assesment group\gofopyaself\fopyaself\fopyaself\main.cpp(76): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\cs level 4\programming\assesment group\gofopyaself\fopyaself\fopyaself\main.cpp(85): warning C4551: function call missing argument list
+d:\cs level 4\programming\assesment group\gofopyaself\fopyaself\fopyaself\main.cpp(423): warning C4018: '<': signed/unsigned mismatch
+d:\cs level 4\programming\assesment group\gofopyaself\fopyaself\fopyaself\main.cpp(490): warning C4018: '<': signed/unsigned mismatch
+d:\cs level 4\programming\assesment group\gofopyaself\fopyaself\fopyaself\main.cpp(583): warning C4018: '<': signed/unsigned mismatch
+d:\cs level 4\programming\assesment group\gofopyaself\fopyaself\fopyaself\main.cpp(602): warning C4018: '<': signed/unsigned mismatch
+d:\cs level 4\programming\assesment group\gofopyaself\fopyaself\fopyaself\main.cpp(609): warning C4018: '<': signed/unsigned mismatch
+d:\cs level 4\programming\assesment group\gofopyaself\fopyaself\fopyaself\main.cpp(619): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+d:\cs level 4\programming\assesment group\gofopyaself\fopyaself\fopyaself\main.cpp(619): warning C4244: 'initializing': conversion from 'time_t' to 'const int', possible loss of data
+  FopYaSelf.vcxproj -> D:\CS Level 4\Programming\Assesment Group\GoFopYaSelf\FopYaSelf\Debug\FopYaSelf.exe
